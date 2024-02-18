@@ -1,0 +1,4 @@
+HP:0
+Damage:0
+Speed:0
+Dependence:Low
